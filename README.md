@@ -1,16 +1,13 @@
-### Hi there 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<!--
-**dinhsan2000/dinhsan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <em>
+    20 years of living a comical life! <br>
+    Maintainer at https://github.com/CherishOS and https://github.com/UnDerp-Nest <br>
+    Người duy trì tại https://github.com/CherishOS và https://github.com/UnDerp-Nest <br>
+    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img align="left" alt="dinhsan2000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinhsan2000&show_icons=true&hide_border=true" />
