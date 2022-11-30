@@ -5,7 +5,7 @@
 
 ## 🤗 About me
 - I'm 23 years old.
-- Work from PHP and Laravel Developer
+- PHP and Laravel Developer Jobs
 - Learning building Android every day.
 
 ## 💻 Working environment
@@ -17,6 +17,9 @@
 [![Redmi K30 5G](https://img.shields.io/badge/Redmi_K30_5G-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30pro)
 [![Redmi K30 Pro](https://img.shields.io/badge/Redmi_K30_Pro-fd4900?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30pro)
 [![Microsoft Lumia 950 XL](https://img.shields.io/badge/Microsoft_Lumia_950_XL-294172?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.mi.com/redmik30pro)
+
+## 🛠 Language and Tool
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,php,mysql,laravel)](#)
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/san2k)
