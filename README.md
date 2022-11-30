@@ -19,7 +19,7 @@
 [![Microsoft Lumia 950 XL](https://img.shields.io/badge/Microsoft_Lumia_950_XL-294172?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.mi.com/redmik30pro)
 
 ## 🛠 Language and Tool
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,php,mysql,laravel)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,html,css,js,bootstrap,php,mysql,laravel)](#)
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/san2k)
