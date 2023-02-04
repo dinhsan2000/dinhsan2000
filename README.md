@@ -1,7 +1,7 @@
 ## 👋 Here is your boi!
 
 
-![dinhsan2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![dinhsan2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhsan2000&show_icons=true&theme=dracula)
 
 ## 🤗 About me
 - I'm 23 years old.
