@@ -13,7 +13,7 @@
 [![MacOs 13.6.6 LTS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=for-the-badge)](https://apple.com)
 
 ## 🛠 Language and Tool
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,bootstrap,php,mysql,laravel)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,mysql,laravel)](#)
 
 ## 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/san2k)
