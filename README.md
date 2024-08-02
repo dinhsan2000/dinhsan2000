@@ -1,7 +1,9 @@
 ## 👋 Hello everyone
 
-
-![dinhsan2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhsan2000&show_icons=true&theme=dracula)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinhsan2000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" alt="Dinh Trong San's GitHub stats" style="height: 195px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhsan2000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=8" alt="Top Langs" style="height: 195px;">
+</div>
 
 ## 🤗 About me
 - I'm 24 years old.
