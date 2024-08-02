@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhsan2000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=8" alt="Top Langs" style="height: 195px;">
 </div>
 
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=dinhsan2000&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+
 ## 🤗 About me
 - I'm 24 years old.
 - Web Developer
